@@ -1,0 +1,23 @@
+Game Engine Roadmap
+===================
+1.  Entry Point 
+2.  Application Layer
+3.  Window Layer
+4.  Event Manager (IO, Events, ...)
+5.  Renderer 
+6.  Render API abstraction (in order to support OpenGL, DirectX, ...)
+7.  Level Editor
+8.  Debugging support (performance preview, logging, testing, profilling, ...)
+9.  Scripting
+10. Memory handler (also include this into debugging)
+11. Component-Entity-Systems (CES) (something like GameObject in Unity)
+11. Physics 
+12. File System (importing models etc ...)
+13. Build Mechanism
+14. Real time refresh / build in runtime
+15. Error handlinng 
+16. Engine documentation
+17. UI Components, System Components, Flows, Custom Shader Support (this is for Editor and engine)
+18. Editor: Nice UI for level editor.
+19. Networking support (UDP, TCP, ...)
+20. Multi platform support (Windows and Linux)
