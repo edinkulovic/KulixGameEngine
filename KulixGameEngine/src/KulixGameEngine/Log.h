@@ -10,7 +10,6 @@ namespace KulixGameEngine
 	class KULIX_GAME_ENGINE_API Log
 	{
 	public:
-		// 
 		static void Init();
 
 		inline static std::shared_ptr<spdlog::logger>& GetCoreLogger() { return s_CoreLogger; }
