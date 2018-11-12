@@ -1,4 +1,5 @@
-
+To Learn: 
+--------------------------------------------------------------------------------------
 1. __declspec (dllexport and ddlimport)
 
 2. Inline static 
@@ -6,3 +7,10 @@
 3. Review different logging libs for c++ for now use https://github.com/gabime/spdlog
 
 4. inline static std::shared_ptr<spdlog::logger>&
+
+5. vcpkg
+
+Tricks:
+--------------------------------------------------------------------------------------
+1. Adding git submodule 
+   git submodule add https://github.com/gabime/spdlog KulixGameEngine/vendor/spdlog
