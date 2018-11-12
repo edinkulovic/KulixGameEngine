@@ -1,4 +1,8 @@
 
-__declspec (dllexport and ddlimport)
-====================================
+1. __declspec (dllexport and ddlimport)
 
+2. Inline static 
+
+3. Review different logging libs for c++ for now use https://github.com/gabime/spdlog
+
+4. inline static std::shared_ptr<spdlog::logger>&

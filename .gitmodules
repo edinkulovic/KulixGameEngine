@@ -1,0 +1,3 @@
+[submodule "KulixGameEngine/vendor/spdlog"]
+	path = KulixGameEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
